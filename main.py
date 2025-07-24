@@ -3,8 +3,8 @@ import time
 from telegram import Bot
 
 # Replace with your actual token and chat ID
-TOKEN = "YOUR_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+TOKEN = "7865504031:AAEj0lfTVx6nNxHhQa47BjiE5whAZmM1lP8"
+CHAT_ID = "1127944772"
 
 bot = Bot(token=TOKEN)
 
